@@ -32,7 +32,7 @@ Paso 3:
     
     ** Agregar todos los files  ``` git add --all ```
     
-    ** Guardar cambios locales ``` git commit -m "added fragment sample" ```
+    ** Guardar cambios locales con comentarios ``` git commit -m "added fragment sample" ```
     
   * Verificar status
   
@@ -46,13 +46,13 @@ Paso 3:
   
     ** Subir nuestros cambios ``` git push origin master ```
     
-  Realizar este proceso al finalizar y al iniciar el avance de su proyecto
+  Realizar este proceso al finalizar y al iniciar el avance de su proyecto.
 
 Paso 4:
 
 - Crear un nuevo repositorio
     * Usar el formato para el nombre : AMX-2016X-Proyecto-XXX . Ejemplo "AM2-20162-Proyecto-AppVeterinaria"
-    * En los comentarios de sus commits indicar el avance realizado. Ejemplo "Se agregó el módulo de autenticaciòn"
+    * En los comentarios de sus commits indicar el avance realizado. Ejemplo "Se agregó el módulo de autenticación"
 
 
 Referencias :
