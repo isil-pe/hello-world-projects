@@ -23,7 +23,24 @@ Paso 3:
   * Github Desktop [https://desktop.github.com/](https://desktop.github.com/)
   
   * Github tutorial [https://www.pluralsight.com/blog/software-development/github-tutorial](https://www.pluralsight.com/blog/software-development/github-tutorial)
+ 
+- Breve Guía de Comandos
+
+  * Lo primero es guardar tus cambios locales
+    ** Agregar files nuevos ``` git add * ```
+    ** Agregar todos los files  ``` git add --all ```
+    ** Guardar cambios locales ``` git commit -m "added fragment sample" ```
+    
+  * Verificar status
+    ** Verificar si hay cambios externos en nuestro repo ``` git status ```
   
+  * Sincronizar cambios externos
+    ** Descargar cambios externos ``` git pull ```
+    
+  * Subir cambios
+    ** Subir nuestros cambios ``` git push origin master ```
+    
+  Realizar este proceso al finalizar y al iniciar el avance de su proyecto
 
 Paso 4:
 
