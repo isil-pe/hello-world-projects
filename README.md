@@ -63,8 +63,10 @@ Referencias :
 Configurar usuario local :
 
 ```
-  git config --global user.name "Eduardo Medina"
-  git config --global user.email emedinaa@gmail.com
-  
-```  
+ git config --global user.name "Eduardo Medina"
+``` 
+
+```
+ git config --global user.email emedinaa@gmail.com
+```
 
