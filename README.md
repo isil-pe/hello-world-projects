@@ -60,4 +60,11 @@ Referencias :
 - Curso de aplicaciones móviles Android [https://github.com/isilandroid](https://github.com/isilandroid)
 
 
+Configurar usuario local :
+
+```
+  git config --global user.name "Eduardo Medina"
+  git config --global user.email emedinaa@gmail.com
+  
+```  
 
