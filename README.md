@@ -26,7 +26,13 @@ Paso 3:
  
 - Breve Guía de Comandos
 
-  * Lo primero es guardar tus cambios locales
+  * Clonar repositorio de github 
+  
+    ** Ejemplo "Template Project "    ``` git clone https://github.com/isil-pe/TemplateProject * ```
+    
+  * Trabajar en el folder donde se descargo el proyecto y realizar cambios.
+  
+  * Luego de avanzar su proyecto se tiene que  guardar los cambios locales
   
     ** Agregar files nuevos ``` git add * ```
     
