@@ -9,8 +9,13 @@ Paso 2:
 
 - Pertenecer a la organización Isil.pe [https://github.com/isil-pe](https://github.com/isil-pe). Solicitar invitación en clase o al enviar un correo  a isil@qd.pe. Formato : "AM1 Solicitar acceso al Github de Proyectos"
 
-
 Paso 3:
+
+- Crear un nuevo repositorio
+    * Usar el formato para el nombre : AMX-2016X-Proyecto-XXX . Ejemplo "AM2-20162-Proyecto-AppVeterinaria"
+    * En los comentarios de sus commits indicar el avance realizado. Ejemplo "Se agregó el módulo de autenticación"
+    
+Paso 4:
 
 - Aprender a usar git y la plataforma Github
 
@@ -54,11 +59,7 @@ Paso 3:
     
   Realizar este proceso al finalizar y al iniciar el avance de su proyecto.
 
-Paso 4:
 
-- Crear un nuevo repositorio
-    * Usar el formato para el nombre : AMX-2016X-Proyecto-XXX . Ejemplo "AM2-20162-Proyecto-AppVeterinaria"
-    * En los comentarios de sus commits indicar el avance realizado. Ejemplo "Se agregó el módulo de autenticación"
 
 
 Referencias :
